@@ -1,0 +1,4 @@
+name: natejohnson05/my-codeql-queries
+extractor: javascript
+dependencies:
+  codeql/javascript-all: "*"

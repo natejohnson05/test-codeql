@@ -1,0 +1,6 @@
+name: "My Codeql config"
+
+disable-default-queries: true
+
+queries:
+  - uses: ./my-codeql-pack/my-codeql-queries/InsecureHttpParser.ql
